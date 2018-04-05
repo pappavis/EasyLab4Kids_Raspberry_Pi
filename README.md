@@ -1,7 +1,7 @@
 ### EasyLab Arduino Robotauto
 Arduino Robot alles-op-één bordje door **Michiel Erasmus** / EasyLab4Kids. Dit is die tegniese ontwerpe daarvan.<br/>
 
-<img src="https://github.com/pappavis/EasyLab/blob/master/KiCAD/EasyLabArduino/EasyLab4Kids_SMD/Renders/1.jpg" width="30%" height="30%"><br/>
+<img src="https://github.com/pappavis/EasyLab4Kids_Raspberry_Pi/blob/master/KiCAD/plaatjes/2017-09-20%20pi-version.jpg" width="30%" height="30%"><br/>
 
 Credits:
 ---

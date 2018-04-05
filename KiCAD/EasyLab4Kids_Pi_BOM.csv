@@ -1,0 +1,47 @@
+Title,EasyLabs4Kids
+Revision,0
+Date,2017-09-21
+Generated,11-1-2018 13:44:21
+Company,
+Comment 1,Drawn by Hemal C [from Fiverr]
+Comment 2,
+Comment 3,
+Comment 4,
+Total Parts,40
+Total Unique Parts,26
+
+
+
+Ref,Qty,Value,Footprint,MANF#,manf#,
+C1 C2 ,2,0.1uF,EasyLab4Kids_Pi:C_0805_HandSoldering, , 
+D3 D1 D2 ,3,LED,EasyLab4Kids_Pi:LED-5MM, , 
+F1 ,1,Polyfuse,EasyLab4Kids_Pi:R_0805_HandSoldering,0ZCK0100FF2E, 
+F2 ,1,Polyfuse,EasyLab4Kids_Pi:R_0805_HandSoldering, ,0ZCK0100FF2E
+J6 ,1,5V,EasyLab4Kids_Pi:BBC_CONNECTOR, , 
+J7 J9 ,2,GND,EasyLab4Kids_Pi:BBC_CONNECTOR, , 
+J8 ,1,3V3,EasyLab4Kids_Pi:BBC_CONNECTOR, , 
+J10 J11 J18 ,3,IO,EasyLab4Kids_Pi:BBC_CONNECTOR, , 
+J15 ,1,M1,EasyLab4Kids_Pi:mkds_1,5-2, , 
+J16 ,1,12V,EasyLab4Kids_Pi:mkds_1,5-2, , 
+J17 ,1,M2,EasyLab4Kids_Pi:mkds_1,5-2, , 
+J14 ,1,Servo,EasyLab4Kids_Pi:Pin_Header_Straight_1x03, , 
+J2 ,1,RX,EasyLab4Kids_Pi:Makey_conn, , 
+J3 ,1,TX,EasyLab4Kids_Pi:Makey_conn, , 
+J4 ,1,5V,EasyLab4Kids_Pi:Makey_conn, , 
+J5 ,1,GND,EasyLab4Kids_Pi:Makey_conn, , 
+J1 ,1,RPi_Header,EasyLab4Kids_Pi:Pin_Header_Straight_2x20, , 
+J12 ,1,Grove,EasyLab4Kids_Pi:grove_1x04, , 
+J19 ,1,IO,EasyLab4Kids_Pi:Pin_Header_Straight_1x04, , 
+Q2 Q1 ,2,2N7000,EasyLab4Kids_Pi:TO-92_Inline_Narrow_Oval, , 
+R3 R1 R2 ,3,330,EasyLab4Kids_Pi:R_0805_HandSoldering, , 
+R4 R7 R8 R5 R6 ,5,10K,EasyLab4Kids_Pi:R_0805_HandSoldering, , 
+SW1 ,1,SW_PUSH,EasyLab4Kids_Pi:PCB_PUSH_edit, , 
+U1 ,1,L293D,EasyLab4Kids_Pi:DIP-16_W7.62mm_LongPads, , 
+U2 U3 ,2,KY-033,EasyLab4Kids_Pi:Pin_Header_Straight_1x03, , 
+U4 ,1,TXB0108,EasyLab4Kids_Pi:SSOP-20_4.4x6.5mm_Pitch0.65mm, , 
+
+
+
+
+BOM made with KICAD_BOM_WIZARD (https://github.com/HashDefineElectronics/KiCad_BOM_Wizard.git)
+Generated 11-1-2018 13:44:21

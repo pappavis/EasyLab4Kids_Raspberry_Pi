@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name EasyLab4Kids_Pi)(type KiCad)(uri "$(KIPRJMOD)/EasyLab4Kids_Pi.pretty")(options "")(descr ""))
+)
